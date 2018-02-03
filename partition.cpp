@@ -1,9 +1,6 @@
 #include<iostream>
 using namespace std;
-void sw(int *a,int *b){
-    int temp=*a;
 
-}
 int partiton(int ar[],int first,int last){
     int temp=ar[first];
     while(first<last){
